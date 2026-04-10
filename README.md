@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahd-abuoolila&label=Profile%20views&color=0e75b6&style=flat" alt="fahd-abuoolila" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahd-abuoolila" alt="fahd-abuoolila" /></a> </p>
-
 - 🔭 I’m currently working on [Roayapay company](roayapay.com.eg)
 
 - 👯 I’m looking to collaborate on [Laravel community](laravel.com)
