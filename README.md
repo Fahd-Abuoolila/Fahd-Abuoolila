@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/fahd abuolila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd abuolila" height="30" width="40" /></a>
 <a href="https://fb.com/fahd abuoolila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahd abuoolila" height="30" width="40" /></a>
-<a href="https://instagram.com/fahd abuolila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahd abuolila" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
