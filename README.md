@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Roayapay Company](https://roayapay.com.eg/)
 
-- 👯 I’m looking to collaborate on [Laravel community](laravel.com)
+- 👯 I’m looking to collaborate on [Laravel community](https://laravel.com/)
 
-- 👨‍💻 All of my projects are available at [fahd-abuoolila.github.io/Profile](fahd-abuoolila.github.io/Profile)
+- 👨‍💻 All of my projects are available at [fahd-abuoolila.github.io/Profile](https://fahd-abuoolila.github.io/Profile)
 
 - 💬 Ask me about **laravel, vue.js**
 
